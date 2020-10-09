@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<doc>
+	<count_views>2376</count_views>
+	<count_comments>23</count_comments>
+	<author>Руслан Присекин</author>
+	<tags>nintendo switch</tags>
+	<title>Похоже, игры из сборника Super Mario 3D All-Stars работают через эмулятор</title>
+	<date>16 сентября 2020г.</date>
+	<link>https://stopgame.ru/newsdata/44802</link>
+	<text>
+<![CDATA[
+18 сентября на Nintendo Switch стартует сборник Super Mario 3D All-Stars, куда входят Super Mario 64, Super Mario Sunshine и Super Mario Galaxy. Благодаря утечке комплекта выяснилось, что это не порты оригинальных игр, а сами оригинальные игры, работающие через эмулятор.Пользователь «Твиттера» под ником OatmealDome рассказал, что Super Mario Sunshine и Super Mario Galaxy запускаются с помощью эмулятора Wii и GameCube, известного под названием hagi. Похоже, этот эмулятор был создан NERD — одним из европейских подразделений Nintendo.Super Mario 64 также работает через эмулятор, но через какой именно — неизвестно.OatmealDome отмечает, что разработчики всё же перекомпилировали исходный код Super Mario Galaxy для работы на центральном процессоре гибридной консоли. Однако всё остальное, включая графику и звук, по-прежнему запускается через эмулятор.Напомним, развлечения из Super Mario 3D All-Stars предложат HD-графику, соотношение сторон 16:9, поддержку двух контроллеров Joy-Con и встроенный плеер с саундтреками трёх игр. По слухам, разработка комплекта началась в феврале-марте этого года, то есть всего около шести месяцев назад.Galaxy in particular is really interesting. It appears they recompiled the original code to run natively on the Switch CPU, but everything else (GPU/Audio) is running in the emulator.
+
+Interesting trick!— OatmealDome (@OatmealDome) September 15, 2020]]>	</text>
+</doc>
